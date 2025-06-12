@@ -1,3 +1,3 @@
 # June-demo
 Demo repo 
-Author: Prajwal Kamthe
+Author: Prajwal Kamthe (magic software )
